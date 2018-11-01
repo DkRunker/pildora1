@@ -3,7 +3,8 @@ import React from 'react'
 function Respuesta() {
   let estiloRespuesta = {
     background: '#ffffff',
-    padding: '10px'
+    padding: '10px',
+    width: '300px'
   }
   return (
     <div style={estiloRespuesta}>
