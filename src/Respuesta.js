@@ -4,7 +4,8 @@ function Respuesta() {
   let estiloRespuesta = {
     background: '#ffffff',
     padding: '10px',
-    width: '300px'
+    width: '400px',
+    borderRadius: '8px',
   }
   return (
     <div style={estiloRespuesta}>

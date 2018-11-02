@@ -2,10 +2,11 @@ import React from 'react'
 
 function Pregunta(props) {
   let estiloPregunta = {
-    background: '#dcf8c6',
+    backgroundColor: '#dcf8c6',
     padding: '10px',
-    width: '300px',
-    marginLeft: '280px',
+    width: '400px',
+    marginLeft: '195px',
+    borderRadius: '8px',
   }
   return (
     <div style={estiloPregunta}>
